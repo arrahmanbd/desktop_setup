@@ -1,9 +1,9 @@
 
 
-Arch Linux Installation Guide
+Arch Linux Installation Guide 🔥
 =============================
 
-Table of Contents
+✅ Table of Contents
 -----------------
 
 * [Connect to Network](#connect-to-network)
@@ -198,3 +198,4 @@ Reinstall GRUB with:
     grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB
 
 Enjoy your new Arch Linux installation!
+
